@@ -1,0 +1,4 @@
+project_id = "rjcfurmvcpicadrdrlxl"
+
+[functions."process-notes"]
+verify_jwt = false
